@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870257509131",
+    "project_id": "kanji-notifications",
+    "storage_bucket": "kanji-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870257509131:android:d1da5d155ca9359759180e",
+        "android_client_info": {
+          "package_name": "com.richardmusic.kanjinotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkeAFw5IeR5uh8FhatUOwgL1eeEzOek3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
